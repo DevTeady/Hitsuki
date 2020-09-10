@@ -51,10 +51,6 @@ except Exception as eee:
     )
     sys.exit(1)
 
-if not CONFIG['is_example_config_or_not'] == "not_sample_anymore":
-    print("Please, use your eyes and stop being blinded.")
-    sys.exit(1)
-
 TOKEN = CONFIG['bot_token']
 API_KEY = CONFIG['api_key']
 API_HASH = CONFIG['api_hash']
