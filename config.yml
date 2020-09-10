@@ -12,7 +12,7 @@ workers: 4
 deepfry_token: None
 del_cmds: False
 sw_api: 'W8j9V744RBXOsBE4bw6adi0awvdzCeKcT881q9NKeXNHFFY1VkdFajMX6d9llJMe'
-lastfm_api_key: ''
+lastfm_api_key: 'f410c07ad543eeeedc1433de9b1a6041'
 
 # Database
 database_url: "postgres://wukxotdsvfvzbh:2dbd33a8ba084d45aa3ce2122fd00cfcb3eab2603c6959c77bcac468832ea3b4@ec2-34-236-215-156.compute-1.amazonaws.com:5432/der86eer8ejkjo"
