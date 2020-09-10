@@ -59,6 +59,10 @@
       "description": "Port to use for your webhooks",
       "value": "8443"
     },
+    "sw_api": {
+      "description": "Enter Spamwatch API",
+      "value": "8443"
+    },
     "DEL_CMDS": {
       "description": "Whether to delete commands from users which don't have rights to use that command",
       "value": "True"
